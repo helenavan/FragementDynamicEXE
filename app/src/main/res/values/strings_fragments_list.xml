@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="text_empty">No item in your ListView</string>
+    <string name="image_avatar_description">Avatar of the user</string>
+    <string name="img_country">Flag of country</string>
+
+    <string-array name="list_examples">
+        <item>Belgique</item>
+        <item>France</item>
+        <item>Italie</item>
+        <item>Espagne</item>
+        <item>Portugal</item>
+        <item>Suisse</item>
+    </string-array>
+
+</resources>
